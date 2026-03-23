@@ -5,7 +5,7 @@
 ## 🎬 Demo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashish28yadav/Wallet/main/assets/Walletvideo-ezgif.com-optimize.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/ashish28yadav/Wallet/master/assets/Walletvideo-ezgif.com-optimize.gif" width="300"/>
 </p>
 
 ---
